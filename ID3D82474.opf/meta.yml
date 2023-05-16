@@ -1,0 +1,18 @@
+id: ID3D82474
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:11.416506
+last_modified: 2023-01-04 11:30:11.416519
+source_metadata:
+  collections:
+  - Butön Rinchen Drup Series
+  - Works of Tibetan Masters
+bases:
+  2A53:
+    title: Prayer to Butön Rinpoche
+    base_file: 2A53.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
